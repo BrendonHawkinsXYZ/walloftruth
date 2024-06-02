@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Muhammad Talha Sohail",
+  "author": "Brendon Hawkins + Muhammad Talha Sohail",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
